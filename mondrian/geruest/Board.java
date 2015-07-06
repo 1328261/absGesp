@@ -6,6 +6,7 @@ public class Board extends JPanel {
 
     private final int WIDTH = 200;
     private final int HEIGHT = 200;
+//hallo
 
     public Board() {
         super();
